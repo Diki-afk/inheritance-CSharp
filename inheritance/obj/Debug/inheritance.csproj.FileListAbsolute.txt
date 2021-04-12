@@ -1,0 +1,8 @@
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.MainForm.resources
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.csproj.GenerateResource.Cache
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.pdb
